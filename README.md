@@ -1,5 +1,5 @@
-#Tic-Tac-Toe
-Created the classic game of Tic-Tac-Toe in order to learn HTML, CSS, JavaScript
+# Tic-Tac-Toe
+<br>Created the classic game of Tic-Tac-Toe in order to learn HTML, CSS, JavaScript
 <br>
 Features:
 <br>1. Multiplayer(Offline)
